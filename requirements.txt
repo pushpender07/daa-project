@@ -1,0 +1,11 @@
+# Maze Generator and Solver - DSA Project
+# This project uses only Python standard library
+
+# Python 3.6 or higher required
+# tkinter - Usually comes pre-installed with Python
+# If tkinter is not installed on Linux, install with:
+# sudo apt-get install python3-tk
+
+# No external dependencies required!
+# All data structures (Stack, Queue, MinHeap) are implemented from scratch
+
